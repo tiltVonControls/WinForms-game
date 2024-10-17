@@ -1,0 +1,12 @@
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\bin\Debug\Devon_McManus_final-progect.exe.config
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\bin\Debug\Devon_McManus_final-progect.exe
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\bin\Debug\Devon_McManus_final-progect.pdb
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\obj\Debug\Devon_McManus_final-progect.csproj.AssemblyReference.cache
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\obj\Debug\Devon_McManus_final_progect.Form1.resources
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\obj\Debug\Devon_McManus_final_progect.Properties.Resources.resources
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\obj\Debug\Devon_McManus_final-progect.csproj.GenerateResource.cache
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\obj\Debug\Devon_McManus_final-progect.csproj.CoreCompileInputs.cache
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\obj\Debug\Devon_McManus_final-progect.exe
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\obj\Debug\Devon_McManus_final-progect.pdb
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\obj\Debug\Devon_McManus_final_progect.Form2.resources
+C:\Users\devon\Documents\_School\comp1012\Devon_McManus_final-progect\Devon_McManus_final-progect\obj\Debug\Devon_McManus_final_progect.Spells.resources
